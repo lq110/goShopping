@@ -1,4 +1,5 @@
-
+# 静态地址
+https://lq110.github.io/goShopping/index.html
 # H5C3
 
 ### 《购物车宣传》案例
